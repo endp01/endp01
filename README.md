@@ -1,16 +1,23 @@
 ### Hi there 👋
 
+| Passionate coder and data enthusiast | Leveraging technology to drive innovation | Exploring the endless possibilities of data-driven solutions | 
+
+- 🔭 I’m currently working on <redacted>
+
+- 📚 Skills:
+
+    - Programming Languages: Python, R, React Native, JavaScript, SQL
+    - Data Analysis &  Machine Learning: Pandas, NumPy, SciPy, tidyverse
+    - Data Visualization: Seaborn, Matplotlib
+    - Web Development: Django, Flask, Bootstrap, React, HTML, CSS, JavaScript
+    - Cloud Computing: Google Cloud Platform, Google Firebase
+    - Agile Methodologies
+      
+- 🌱 I’m currently learning React and more
+
+- 😄 Pronouns: he/him
+
 <!--
-**endp01/endp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 📫 How to reach me: 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
