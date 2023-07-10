@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| Passionate coder and data enthusiast | Leveraging technology to drive innovation | Exploring the endless possibilities of data-driven solutions | 
+Passionate coder and data enthusiast | Leveraging technology to drive innovation | Exploring the endless possibilities of data-driven solutions
 
 - 🔭 I’m currently working on <redacted>
 
