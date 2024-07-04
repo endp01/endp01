@@ -13,7 +13,7 @@ Passionate coder and data enthusiast | Leveraging technology to drive innovation
     - Cloud Computing: Google Cloud Platform, Google Firebase
     - Agile Methodologies
       
-- 🌱 I’m currently learning React, React Native, Solidity and more
+- 🌱 I’m currently learning React, React Native, TypeScript, Solidity, and more
 
 - 😄 Pronouns: he/him
 
