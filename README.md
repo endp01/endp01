@@ -6,11 +6,10 @@ Passionate coder and data enthusiast | Leveraging technology to drive innovation
 
 - 📚 Skills:
 
-    - Programming Languages: Python, React, React Native, JavaScript, R, SQL
-    - Data Analysis & Machine Learning: Pandas, NumPy, SciPy, tidyverse, R Studio
+    - Web & Mobile Development: React, React Native, JavaScript, Python, Flask, Expo, Astro, Tailwind, Vite, Bootstrap, Django, SQL, HTML, CSS
+    - Data Analysis, AI & Machine Learning: Python, R, Pandas, NumPy, SciPy, tidyverse
+    - Cloud Computing: Google Cloud Platform, Google Firebase, OpenAI API
     - Data Visualization: Seaborn, Matplotlib
-    - Web Development: React, JavaScript, Flask, Vite, Bootstrap, Django, HTML, CSS
-    - Cloud Computing: Google Cloud Platform, Google Firebase
     - Agile Methodologies
       
 - 🌱 I’m currently learning TypeScript, Solidity, and more
